@@ -1,4 +1,24 @@
-## MW-7892
-*A.K.A* `M-W`, `M_W`
+# ⭐ MW-7892
+I'm Mok! Well, I do enjoy coding. (That's why I'm here in the first place).
 
-Hopefully I will be able to add more things in here.
+## 💖 Something I want to do
+* Playing around with Linux, ricing included
+* Cybersecurity stuffs
+* Developing something on my own
+
+## 📗 Cool Achievements
+* IOI2022 contestant from 🇹🇭
+* Bachelor degree MEXT scholarship
+---
+<details>
+  <summary>❓ Random Hobbies</summary>
+  <ul>
+    <li> 🎵 maimai (14k rating as of 2024-06)
+    <li> ⌨️ Touch Typing (around 80-90 wpm on a good day)
+    <li> 🖥️ Using vim, arch linux, and many tui tools (because it looks cool, don't judge me)
+    <li> 🇯🇵 Learning Japanese language (still a long way to go)
+    <li> 📝 Doing every possible assignment on LaTeX
+  </ul>
+</details>
+
+More things to be added soon! Actually, I'm still not quite sure what to put here.
