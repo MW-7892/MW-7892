@@ -21,4 +21,4 @@ I'm Mok! Well, I do enjoy coding. (That's why I'm here in the first place).
   </ul>
 </details>
 
-More things to be added soon! Actually, I'm still not quite sure what to put here.
+Just got a website 🥹, feel free to check out! [mw7892.com](http://mw7892.com)
